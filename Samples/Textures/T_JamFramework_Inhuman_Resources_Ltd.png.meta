@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 74f9784dd7e3ebd4f8c6215dc423dcc2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7938997812217951410
+    second: Inhuman_Resources_Ltd_0
+  - first:
+      213: -4711118867906324482
+    second: Inhuman_Resources_Ltd_1
+  - first:
+      213: -7866305695639828712
+    second: Inhuman_Resources_Ltd_2
+  - first:
+      213: 1229714774839598512
+    second: Inhuman_Resources_Ltd_3
+  - first:
+      213: 7024901244762079243
+    second: Inhuman_Resources_Ltd_4
+  - first:
+      213: -6906498299900400068
+    second: Inhuman_Resources_Ltd_5
+  - first:
+      213: -1925686918642283296
+    second: Inhuman_Resources_Ltd_6
+  - first:
+      213: 6585831697913446247
+    second: Inhuman_Resources_Ltd_7
+  - first:
+      213: 3393748905012970804
+    second: Inhuman_Resources_Ltd_8
+  - first:
+      213: -2298288273874919423
+    second: Inhuman_Resources_Ltd_9
+  - first:
+      213: -1688164177720409400
+    second: Inhuman_Resources_Ltd_10
+  - first:
+      213: -7312818826221475869
+    second: Inhuman_Resources_Ltd_11
+  - first:
+      213: 6727204219288375446
+    second: Inhuman_Resources_Ltd_12
+  - first:
+      213: -2721099397948348629
+    second: Inhuman_Resources_Ltd_13
+  - first:
+      213: 7060590424318372340
+    second: Inhuman_Resources_Ltd_14
+  - first:
+      213: -7302356543077895978
+    second: Inhuman_Resources_Ltd_15
+  - first:
+      213: 1893723676021997075
+    second: Inhuman_Resources_Ltd_16
+  - first:
+      213: -7366322726151508118
+    second: Inhuman_Resources_Ltd_17
+  - first:
+      213: -6144026270807948891
+    second: Inhuman_Resources_Ltd_18
+  - first:
+      213: 893777117302662191
+    second: Inhuman_Resources_Ltd_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Inhuman_Resources_Ltd_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 420
+        width: 816
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4bad5927cfc2e60800000000000000
+      internalID: 7938997812217951410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inhuman_Resources_Ltd_1
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 977
+        width: 269
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef79dc7a95ebe9eb0800000000000000
+      internalID: -4711118867906324482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inhuman_Resources_Ltd_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81781c4b5a445d290800000000000000
+      internalID: -7866305695639828712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inhuman_Resources_Ltd_3
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 420
+        width: 247
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd1d598213d01110800000000000000
+      internalID: 1229714774839598512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inhuman_Resources_Ltd_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 154
+        width: 48
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b004e3c66767d7160800000000000000
+      internalID: 7024901244762079243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inhuman_Resources_Ltd_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 191
+        width: 134
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ee89073603720a0800000000000000
+      internalID: -6906498299900400068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inhuman_Resources_Ltd_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 258
+        width: 137
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecc5b143f59645e0800000000000000
+      internalID: -1925686918642283296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inhuman_Resources_Ltd_7
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 293
+        width: 123
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f73a83903956b50800000000000000
+      internalID: 6585831697913446247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inhuman_Resources_Ltd_8
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 284
+        width: 148
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4354b24f5a4091f20800000000000000
+      internalID: 3393748905012970804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inhuman_Resources_Ltd_9
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 243
+        width: 135
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1006d34edf6da10e0800000000000000
+      internalID: -2298288273874919423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inhuman_Resources_Ltd_10
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 176
+        width: 128
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c28f68ef9f6298e0800000000000000
+      internalID: -1688164177720409400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inhuman_Resources_Ltd_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 98
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7a744c506a38a90800000000000000
+      internalID: -7312818826221475869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inhuman_Resources_Ltd_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 51
+        width: 99
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690513e5894db5d50800000000000000
+      internalID: 6727204219288375446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inhuman_Resources_Ltd_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 77
+        width: 73
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2762cab386bc3ad0800000000000000
+      internalID: -2721099397948348629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inhuman_Resources_Ltd_14
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 97
+        width: 137
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9650215914cf160800000000000000
+      internalID: 7060590424318372340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inhuman_Resources_Ltd_15
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 105
+        width: 120
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0b792e961d8aa90800000000000000
+      internalID: -7302356543077895978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inhuman_Resources_Ltd_16
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 89
+        width: 116
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31eb90466abd74a10800000000000000
+      internalID: 1893723676021997075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inhuman_Resources_Ltd_17
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 67
+        width: 117
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f2ade428095c990800000000000000
+      internalID: -7366322726151508118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inhuman_Resources_Ltd_18
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 21
+        width: 102
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a103ddb8a80cbaa0800000000000000
+      internalID: -6144026270807948891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inhuman_Resources_Ltd_19
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 0
+        width: 72
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24a2318d85576c00800000000000000
+      internalID: 893777117302662191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Inhuman_Resources_Ltd_0: 7938997812217951410
+      Inhuman_Resources_Ltd_1: -4711118867906324482
+      Inhuman_Resources_Ltd_10: -1688164177720409400
+      Inhuman_Resources_Ltd_11: -7312818826221475869
+      Inhuman_Resources_Ltd_12: 6727204219288375446
+      Inhuman_Resources_Ltd_13: -2721099397948348629
+      Inhuman_Resources_Ltd_14: 7060590424318372340
+      Inhuman_Resources_Ltd_15: -7302356543077895978
+      Inhuman_Resources_Ltd_16: 1893723676021997075
+      Inhuman_Resources_Ltd_17: -7366322726151508118
+      Inhuman_Resources_Ltd_18: -6144026270807948891
+      Inhuman_Resources_Ltd_19: 893777117302662191
+      Inhuman_Resources_Ltd_2: -7866305695639828712
+      Inhuman_Resources_Ltd_3: 1229714774839598512
+      Inhuman_Resources_Ltd_4: 7024901244762079243
+      Inhuman_Resources_Ltd_5: -6906498299900400068
+      Inhuman_Resources_Ltd_6: -1925686918642283296
+      Inhuman_Resources_Ltd_7: 6585831697913446247
+      Inhuman_Resources_Ltd_8: 3393748905012970804
+      Inhuman_Resources_Ltd_9: -2298288273874919423
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

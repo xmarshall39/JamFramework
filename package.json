@@ -1,0 +1,25 @@
+{
+  "name": "com.inhumanresources.jamframework",
+  "version": "0.0.1",
+  "displayName": "Jam Framework",
+  "description": "This is an example package",
+  "unity": "6000.2",
+  "unityRelease": "0b5",
+  "documentationUrl": "github.com/xmarshall39/JamFramework/wiki",
+  "changelogUrl": "github.com/xmarshall39/JamFramework",
+  "licensesUrl": "https://github.com/xmarshall39/JamFramework/blob/main/LICENSE",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "XavierMarshall",
+    "email": "xmarshall.dev@gmail.com",
+    "url": "github.com/xmarshall39/JamFramework"
+  },
+  "hideInEditor": false,
+  "dependencies": {
+    "com.ycatdev.uimgui.extended": "6.0.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "InhumanResources.JamFramework.Editor",
+    "rootNamespace": "JamFramework.Editor",
+    "references": [
+        "GUID:bfd408e9fd05cb34c9bc3456c5fd42ac"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

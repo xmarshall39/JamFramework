@@ -1,0 +1,2 @@
+# Slideshow
+The slideshow component is a simple tool that enforces mutually exclusive activeState's across a collection of gameobjects. In other words, among the gameobjects in a Slideshow component's` pages` list, only one may be active at a time. This is good for any menu with multiple pages. Later, we may want to include a method for custom in/out transitions. For now, it'll be nice and simple.
