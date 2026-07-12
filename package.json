@@ -20,7 +20,7 @@
   },
   "hideInEditor": false,
   "dependencies": {
-    "com.ycatdev.uimgui.extended": "6.0.0"
+    "com.ycatdev.uimgui.extended": "https://github.com/yCatDev/uimgui-extended.git"
   },
     "repository": {
     "type": "git",
