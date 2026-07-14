@@ -1,5 +1,5 @@
 # Audio System
-The Jam Framework Audio System is the perfered way of broadcasting Music and SFX to the player.
+The Jam Framework Audio System is the preferred way of broadcasting Music and SFX to the player.
 
 It handles the collection, configuration, management, and playing of audio events.
 
